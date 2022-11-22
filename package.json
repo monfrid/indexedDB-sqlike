@@ -1,0 +1,19 @@
+{
+  "name": "indexeddb-sqlike",
+  "version": "1.0.0",
+  "description": "Makes working with IndexedDB easier, predictable and enables promises.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "indexeddb",
+    "browser",
+    "database",
+    "browser",
+    "persistent",
+    "storage"
+  ],
+  "author": "Valentyn Patsera <valentyn.patsera@gmail.com>",
+  "license": "MIT"
+}
