@@ -1,4 +1,4 @@
-import { typeOf, parseEntries, merge } from "../utils/utils";
+import { typeOf, parseEntries, merge } from "./utils";
 import { NotImplemented } from "./errors";
 import { CantSave } from "./messages";
 
