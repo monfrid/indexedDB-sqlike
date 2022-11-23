@@ -1,6 +1,6 @@
 import { typeOf, parseEntries, merge } from "./utils";
 import { NotImplemented } from "./errors";
-import { CantSave } from "./messages";
+import { CantSave, ConnectedMessage } from "./messages";
 
 export default class IDBCom {
   constructor() {
